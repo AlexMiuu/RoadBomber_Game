@@ -3,7 +3,7 @@ https://play.google.com/store/apps/details?id=com.MiuGames.RoadBomber
 
   ABOUT
 
-The arcade like car game Road Bomber is now out!
+The arcade like car game Road Bomber (now known as NOSS) is now out!
 You've stolen a expensive device that makes your car immune to explosions and now you have to drive for your life to escape the police. Test your skills as you drive down cities, tunnels and more. Press left or right on your screen to turn, collect powerups wheels and bombs, avoid obstacles at all costs, unlock new cars using collected wheels. See if you can beat your friend's high scores using the leaderboard.
 
   ADDITIONAL INFORMATION
